@@ -1,3 +1,5 @@
+package Aut1;
+
 public class InterrupteurTest {
 
     public static void main(String[] args){
